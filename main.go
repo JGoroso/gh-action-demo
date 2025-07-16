@@ -7,5 +7,5 @@ import (
 )
 
 func main() {
-	fmt.Println("Sum 3 + 5 =", mathutil.Sum(3, 5))
+	fmt.Println("Sum 5 + 5 =", mathutil.Sum(5, 5))
 }
